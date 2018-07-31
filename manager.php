@@ -10,7 +10,7 @@ try {
         'bot_username' => 'testitbot',
         'secret'       => '91268D98ECA2DA44ECFCFFC2D3571FCC35FB00ED783D792F32BC80B7A0632E03',
         'webhook'      => [
-            'url' => 'https://freelikes4insta.000webhostapp.com/bot/2/manager.php',
+            'url' => 'https://bottest123.github.io/tgphpbot/manager.php',
         ]
     ]);
     $bot->run();
